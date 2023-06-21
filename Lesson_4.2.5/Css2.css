@@ -1,0 +1,18 @@
+h1 {
+    color: red;
+}
+
+.paragraph {
+    border: 2px solid rgba(255, 0, 0, 0.235);
+    border-radius: 10px;
+    font-size: 50px;
+    background: rgba(255, 0, 0, 0.114);
+    padding: 8px;
+}
+
+.ten {
+    font-size: 24px;
+    font-style: italic;
+    text-shadow: 3px 3px green;
+    text-align: center;
+}
